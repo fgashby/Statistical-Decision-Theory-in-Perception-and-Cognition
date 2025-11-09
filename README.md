@@ -12,3 +12,6 @@ OneD_fit.m is Matlab code that fits a decision-bound model that assumes a one-di
 rule to categorization data
 
 GLC_fit.m is Matlab code that fits the general linear classifier to categorization data
+
+The repository also includes the file Guessing_fit.m, which fits a model that assumes the
+participant guesses response A on each trial with some unknown probability p.
